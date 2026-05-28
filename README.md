@@ -90,11 +90,17 @@ Custom message structure includes:
 # 🔥 Key Concepts Demonstrated
 
 ✔️ Inter Process Communication (IPC)
+
 ✔️ Message Queue Communication
+
 ✔️ Concurrent Processing
+
 ✔️ Process Creation using `fork()`
+
 ✔️ Linux System Calls
+
 ✔️ Client-Server Architecture
+
 
 ---
 
@@ -103,7 +109,9 @@ Custom message structure includes:
 ## 📥 Clone the Repository
 
 ```bash id="yzl4q2"
-git clone https://github.com/your-username/ipc-chat-application.git
+
+git clone https://github.com/client-server-chat-application-using-system-v-message-queues.git
+
 cd ipc-chat-application
 ```
 
