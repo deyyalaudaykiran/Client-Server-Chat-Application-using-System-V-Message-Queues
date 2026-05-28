@@ -110,9 +110,9 @@ Custom message structure includes:
 
 ```bash id="yzl4q2"
 
-git clone https://github.com/client-server-chat-application-using-system-v-message-queues.git
+git clone https://github.com/deyyalaudaykiran/Client-Server-Chat-Application-using-System-V-Message-Queues.git
 
-cd ipc-chat-application
+cd Client-Server-Chat-Application-using-System-V-Message-Queues
 ```
 
 ---
